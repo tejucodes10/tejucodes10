@@ -32,13 +32,16 @@
 
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a flair for problem solving and analytical thinking. 
 
-- :telescope: I have been an AI and Communications Intern at NITI Aayog, SDE Intern at Monitra Healthcare. 
+- :telescope: I am presently a Science Academies' Research Fellow. I have been an AI and Communications Intern at NITI Aayog, SDE Intern at Monitra Healthcare. 
 
 - :seedling: Co-founded an education startup Study with Sudhir with over 3.5L subscribers on YouTube and serve as an educator for Maths, Science and Career Guidance. 
 
 - :zap: I am a hackathon enthisiast, placed All India Rank 7 in Google Hack4Change, Runner Up in the AI-InsureTech Hackathon and a finalist in the TN Police Hackathon and NIT Trichy Hackathons twice in a row.  
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/tejaswini-uma-sudhir/")
+- :mailbox:How to reach me:
+  <a href="https://www.linkedin.com/in/tejaswini-uma-sudhir/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 ---
 
@@ -59,6 +62,3 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ---
 
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejucodes10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
